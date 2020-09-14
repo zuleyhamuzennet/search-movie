@@ -65,9 +65,9 @@ export class SearchForm extends Component {
                 <div>
                 <label>
                   <select value={this.state.value} onChange={this.handleChange}>
-                    <option value="All">Hepsi</option>
-                    <option value="Movıe">Film</option>
-                    <option value="TV">Dizi</option>
+                    <option value="All">All</option>
+                    <option value="Movıe">Movie</option>
+                    <option value="TV">TV</option>
                   </select>
               </label>
               </div>
