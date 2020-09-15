@@ -13,4 +13,4 @@ players, IMDb score etc.) are directed to another page where they can be viewed.
 -React is used as the framework.
 -OMDb API (http://www.omdbapi.com/) was used to capture movie information.
 -State management Redux is used.
--Used ES+, React Hoos.
+-Used ES+, React Hooks.
